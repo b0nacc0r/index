@@ -1,0 +1,68 @@
+body{
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#quadrato{
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 60%;
+    height: 80%;
+    margin: 5% 15% 5% 15%;
+    border-radius: 20px;
+    padding: 5% 5% 5% 5%;
+}
+
+header{
+    text-align: center;
+}
+
+.logo{
+     width: 20%;
+     height: 70%;
+}
+
+h1{
+    color: lime;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+nav{
+    border: lime solid 7px;
+    text-align: center;
+    background-color: lime;
+}
+
+main{
+    color: white;
+}
+
+h2{
+    display: inline-block;
+    margin-bottom: 0;
+}
+
+.freccina:before{
+    content: '\21A6';
+}
+
+.carica{
+    border-radius: 5px;
+    height: 15px;
+}
+
+.Gino{
+    width: 300px;
+    background-color: rgb(100%, 100%, 40%);
+}
+
+.Mike{
+    width: 500px;
+    background-color: lime;
+}
+
+.Fede{
+    width: 100px;
+    background-color: violet;
+}
